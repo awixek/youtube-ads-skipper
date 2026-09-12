@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YouTube AutoSkip</string>
+    <string name="accessibility_service_label">YouTube AutoSkip</string>
+    <string name="accessibility_description">Automatically presses YouTube's Skip Ad button when it becomes available.</string>
+</resources>
