@@ -1,4 +1,4 @@
-# YouTube AutoSkip — Poco M2 / Android 11
+# YouTube AutoSkip — 
 
 Personal-use Android Accessibility Service.
 
